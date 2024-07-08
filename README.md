@@ -1,6 +1,6 @@
-# Sofian's Personal Page
+# My Personal Webpage
 
-This repository contains the source code for Sofian's personal webpage.
+This repository contains the source code for Sofian Faiz's personal webpage.
 
 ## Contact
 
